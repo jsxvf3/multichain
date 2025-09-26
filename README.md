@@ -1,6 +1,6 @@
-# 慧AI huiai怎么样？慧AI huiai介绍与测评
+# 慧AI 怎么样？慧AI 介绍与测评
 
-## huiai介绍  
+## 慧AI介绍  
 慧AI（huiai.io）是一款集成多款主流大模型的在线AI平台，支持GPT-Plus、GPT-4o、Claude、Grok、Gemini等多种模型，旨在让人人都能轻松使用前沿AI工具提升效率和创造力.
 
 <img width="3216" height="1289" alt="image" src="https://github.com/user-attachments/assets/e84fd3ea-2cdf-4f7c-b54e-e9d794dcccfb" />
