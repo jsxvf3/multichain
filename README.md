@@ -18,7 +18,7 @@ huiai官网：[https://www.huiai.io](https://huiai.io/signup/?code=4917)
 
 | 套餐       | 模型                   | 免费额度     | 价格           | 购买链接                             |
 | ---------- | ---------------------- | ------------ | -------------- | ------------------------------------ |
-| 免费版     | GPT-普号               | 100次/天     | 免费           | hhttps://huiai.io/signup/?code=4917 |
+| 免费版     | GPT-普号               | 100次/天     | 免费           | https://huiai.io/signup/?code=4917 |
 | GPT-Plus套餐 | GPT-Plus账号          | —            | $20/月         | https://huiai.io/signup/?code=4917 |
 | 按次付费   | GPT-Plus、GPT-4o等     | —            | ¥0.2/次起      | https://huiai.io/signup/?code=4917        |
 
